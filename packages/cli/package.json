@@ -1,0 +1,14 @@
+{
+  "name": "ai-ecommerce",
+  "version": "1.0.0",
+  "bin": {
+    "ai-ecommerce": "dist/index.js"
+  },
+  "dependencies": {
+    "@ai-ecommerce/core": "1.0.0",
+    "commander": "^10.0.0"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  }
+}
