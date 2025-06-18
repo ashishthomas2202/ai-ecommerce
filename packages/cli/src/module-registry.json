@@ -1,0 +1,20 @@
+[
+  {
+    "name": "product-digital",
+    "description": "Provides types and functionalities for digital products.",
+    "source": {
+      "type": "monorepoPackage",
+      "packageName": "@ai-ecommerce/product-digital"
+    },
+    "version": "1.0.0"
+  },
+  {
+    "name": "product-physical",
+    "description": "Provides types and functionalities for physical products that require shipping.",
+    "source": {
+      "type": "monorepoPackage",
+      "packageName": "@ai-ecommerce/product-physical"
+    },
+    "version": "1.0.0"
+  }
+]
