@@ -22,10 +22,10 @@ Initialize a new project:
 npx ai-ecommerce init
 ```
 
-Add a component:
+Add a module:
 
 ```bash
-npx ai-ecommerce add component MyComponent
+npx ai-ecommerce add module MyModule
 ```
 
 
