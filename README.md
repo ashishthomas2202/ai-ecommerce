@@ -80,4 +80,3 @@ console.log(cart.getTotal()); // 59.99
 
 `CartOptions` also exposes hooks for tax calculation, persistence, inventory
 checks and more so you can integrate the library into any workflow.
-
