@@ -1,0 +1,17 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^6.10.0",
+    "prisma": "^6.10.0"
+  }
+}

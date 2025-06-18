@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm --workspace packages/core test && npm --workspace packages/cli test"
+  }
+}
