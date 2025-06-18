@@ -1,2 +1,8 @@
 node_modules
 packages/*/dist
+
+# SQLite database for api-server
+packages/api-server/prisma/dev.db
+packages/api-server/prisma/dev.db-journal
+packages/api-server/prisma/*.sqlite
+packages/api-server/prisma/*.sqlite-journal
